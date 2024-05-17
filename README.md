@@ -10,6 +10,7 @@ User-Friendly Interface: Clean and simple user interface that is easy to navigat
 Real-Time Display: Accurate and real-time display of elapsed time in hours, minutes, seconds, and milliseconds.<br>
 ---------------------------------
 ## Technologies Used:
-HTML5: For the structure of the application.
-CSS3: For styling the application and ensuring it is responsive across various devices.
-JavaScript: For implementing the stopwatch functionality and handling user interactions.
+HTML5: For the structure of the application.<br>
+CSS3: For styling the application and ensuring it is responsive across various devices. <br>
+JavaScript: For implementing the stopwatch functionality and handling user interactions.<br>
+---------------------------------
