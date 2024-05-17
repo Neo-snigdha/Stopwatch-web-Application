@@ -1,7 +1,7 @@
 # Stopwatch-web-Application
 The Stopwatch Web Application is a simple and intuitive web-based stopwatch tool designed for tracking time with precision and ease. This application provides basic stopwatch functionalities including start, stop, reset, and lap times.
 
-## Features: <br>
+## Features: 
 Start/Stop Functionality: Easily start and stop the stopwatch with a single click.<br>
 Lap Times: Record multiple lap times to keep track of different intervals.<br>
 Reset Button: Quickly reset the stopwatch to zero with one click.<br>
