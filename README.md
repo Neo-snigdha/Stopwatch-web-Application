@@ -14,3 +14,6 @@ HTML5: For the structure of the application.<br>
 CSS3: For styling the application and ensuring it is responsive across various devices. <br>
 JavaScript: For implementing the stopwatch functionality and handling user interactions.<br>
 
+#You can view the live preview here:
+https://developer-snigdha.github.io/PRODIGY_WD_02/
+
