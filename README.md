@@ -15,5 +15,5 @@ CSS3: For styling the application and ensuring it is responsive across various d
 JavaScript: For implementing the stopwatch functionality and handling user interactions.<br>
 
 # You can view the live preview here:
-https://developer-snigdha.github.io/PRODIGY_WD_02/
+https://Neo-snigdha.github.io/PRODIGY_WD_02/
 
